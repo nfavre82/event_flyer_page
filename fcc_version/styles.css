@@ -1,4 +1,12 @@
+/*HEADER*/
+
+header {
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
 .event-image {
-    width: 50%;
+    width: 35%;
     height: auto;
 }
