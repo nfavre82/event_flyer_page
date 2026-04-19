@@ -10,3 +10,30 @@ header {
     width: 35%;
     height: auto;
 }
+
+/*MAIN*/
+
+.cards-container {
+    border-radius: 15px;
+    display: grid;
+    grid-template-columns: repeat(3, 450px);
+    gap: 2rem;
+    justify-content: center;
+    padding: 2rem 1rem 3rem;
+}
+
+.event-card {
+    background-color: #FFFFF7;
+    border: #808080 solid 1px;
+    border-radius: 15px;
+    padding: 1.3em;
+    max-width: 450px;
+}
+
+.description {
+    text-align: justify;
+}
+
+h3, .session, .hour-room, .duration {
+    text-align: center;
+}
