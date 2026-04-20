@@ -1,3 +1,15 @@
+/*BODY & HR*/
+body {
+    background: linear-gradient(to bottom, #fef6f9, #fdfbe8, #f8fef0);
+    min-height: 100vh;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    background: linear-gradient(to right, transparent, #d4eaa0, transparent);
+}
+
 /*HEADER*/
 
 header {
@@ -11,7 +23,37 @@ header {
     height: auto;
 }
 
+h1 {
+    font-family: "Archivo Black", sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.header-presentation {
+    font-family: "Archivo Black", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400; 
+}
+
 /*MAIN*/
+
+h2 {
+    font-family: "Archivo Black", sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 670;
+}
 
 .cards-container {
     border-radius: 15px;
@@ -23,17 +65,40 @@ header {
 }
 
 .event-card {
-    background-color: #FFFFF7;
-    border: #808080 solid 1px;
+    background: linear-gradient(135deg, #fef6f9, #f8fef0);
+    border: 1px solid #d4eaa0;
     border-radius: 15px;
     padding: 1.3em;
     max-width: 450px;
 }
 
 .description {
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 1.5;
     text-align: justify;
 }
 
 h3, .session, .hour-room, .duration {
+    text-align: center;
+}
+
+.hour-room, .duration {
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 650;
+}
+
+footer p {
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
     text-align: center;
 }
