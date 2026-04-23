@@ -81,8 +81,8 @@ This subtracts the total vertical padding (`50px` top + `50px` bottom) from the 
  ### 📁 Repository and Branches Source Codes: 
 
 - 📁 **Root Repository:** You can consult the root repository of this project on its dedicated 👉 [GitHub repository](https://github.com/nfavre82/event_flyer_page)
-- 🌿 **Main Branch - Source Code:** You can consult the source code for the main branch on its dedicated 👉 [main branch page](https://github.com/nfavre82/event_flyer_page/tree/main)
-- 🎨 **Portfolio Branch - Source Code:** You can consult the source code for the Portfolio branch on its dedicated 👉 [portfolio branch page](https://github.com/nfavre82/event_flyer_page/tree/portfolio)
+- 🌿 **Main Branch - Source Code:** You can view the source code for the main branch on its dedicated 👉 [main branch page](https://github.com/nfavre82/event_flyer_page/tree/main)
+- 🎨 **Portfolio Branch - Source Code:** You can view the source code for the portfolio branch on its dedicated 👉 [portfolio branch page](https://github.com/nfavre82/event_flyer_page/tree/portfolio)
 
 ---
  
